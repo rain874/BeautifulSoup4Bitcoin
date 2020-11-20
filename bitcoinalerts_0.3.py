@@ -1,4 +1,3 @@
-# Das requests module wird importiert und mit rq angesprochen
 import requests as rq
 from bs4 import BeautifulSoup
 
