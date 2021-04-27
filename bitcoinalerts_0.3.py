@@ -20,4 +20,4 @@ while responscode.status_code <= 200:
     for realtime in soup.find_all('span', class_='push-data quotebox-textsize'):
         print(realtime.text)           
 
-print("FACK OFF!")
+print("end")
